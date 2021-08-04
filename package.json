@@ -1,0 +1,14 @@
+{
+  "name": "schema_checker",
+  "version": "1.0.0",
+  "description": "選択した範囲に含まれる URL を抽出し、各ページを構造化データの確認ツールにかけた結果を別タブで開きます。",
+  "main": "src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.154"
+  }
+}

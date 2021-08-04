@@ -1,0 +1,16 @@
+{
+  "name": "SchemaChecker",
+  "manifest_version": 2,
+  "version": "1.0",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  }
+}
